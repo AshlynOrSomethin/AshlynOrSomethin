@@ -8,5 +8,6 @@
 ## Projects
 	- I am working on an Arch based Linux distribution for close friends, don't intend on releasing it fully (ever). The tools used are forked on my profile here on GitHub, mainly just a customized applications set by default on top of KDE Plasma.
 	- [Windows Server as Desktop Guide](https://gist.github.com/AshlynOrSomethin/84cd719358d889004a3f4a2abd152f85)
+ 	- [Windows Server as Desktop Guide]([https://website-name.com](https://gist.github.com/AshlynOrSomethin/84cd719358d889004a3f4a2abd152f85))
 	- [Distro Comparisons *Personal Opinions*](https://gist.github.com/AshlynOrSomethin/c1f93d1efb5e163dfd8d5230b4fc6e0d)
 	- I build computers, and do server stuff alongside those other things.
