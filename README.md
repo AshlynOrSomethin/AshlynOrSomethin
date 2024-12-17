@@ -1,5 +1,5 @@
 ## Age/Gender/Interests
-* I am 20 as of writing this (12/18/2023), my birthday is in March.
+* I am 21 as of writing this (12/16/2024), my birthday is in March.
 * I am female, pronouns are she/they. Although, I couldn't really care less here.
  * I love music, can play over 20 instruments. I write poetry, code, and play games with friends often.
  * I'm interested in politics but keep them out of the FOSS community, we don't need that stuff here. 
