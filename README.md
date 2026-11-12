@@ -19,7 +19,6 @@ Currently working on my own Linux distro called pArched<br>Looking for help main
 ![](https://github-contributor-stats.vercel.app/api?username=AshlynorSomethin&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AshlynorSomethin&icon=0&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ashlynorsomethin) 
